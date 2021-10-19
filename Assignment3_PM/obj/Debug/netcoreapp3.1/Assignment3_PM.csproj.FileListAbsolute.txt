@@ -1,0 +1,13 @@
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.exe
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.deps.json
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.runtimeconfig.json
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.runtimeconfig.dev.json
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.dll
+C:\Users\PRINCE\source\repos\Assignment3_PM\bin\Debug\netcoreapp3.1\Assignment3_PM.pdb
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.csprojAssemblyReference.cache
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.AssemblyInfoInputs.cache
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.AssemblyInfo.cs
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.dll
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.pdb
+C:\Users\PRINCE\source\repos\Assignment3_PM\obj\Debug\netcoreapp3.1\Assignment3_PM.genruntimeconfig.cache
